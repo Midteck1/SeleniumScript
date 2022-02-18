@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19338" started-at="2022-02-18T10:37:47 IST" finished-at="2022-02-18T10:38:06 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19338" started-at="2022-02-18T10:37:47 IST" finished-at="2022-02-18T10:38:06 IST">
+      <class name="TestAssignement.SortingData">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:TestAssignement.SortingData@5bb21b69]" name="startReport" is-config="true" duration-ms="116" started-at="2022-02-18T10:37:47 IST" finished-at="2022-02-18T10:37:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="sortByName()[pri:0, instance:TestAssignement.SortingData@5bb21b69]" name="sortByName" duration-ms="11512" started-at="2022-02-18T10:37:47 IST" finished-at="2022-02-18T10:37:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortByName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestAssignement.SortingData@5bb21b69]" name="tearDown" is-config="true" duration-ms="1308" started-at="2022-02-18T10:37:59 IST" finished-at="2022-02-18T10:38:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="sortByScore()[pri:0, instance:TestAssignement.SortingData@5bb21b69]" name="sortByScore" duration-ms="5197" started-at="2022-02-18T10:38:00 IST" finished-at="2022-02-18T10:38:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortByScore -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestAssignement.SortingData@5bb21b69]" name="tearDown" is-config="true" duration-ms="1136" started-at="2022-02-18T10:38:05 IST" finished-at="2022-02-18T10:38:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestAssignement.SortingData@5bb21b69]" name="tearDown" is-config="true" duration-ms="34" started-at="2022-02-18T10:38:06 IST" finished-at="2022-02-18T10:38:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestAssignement.SortingData -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
